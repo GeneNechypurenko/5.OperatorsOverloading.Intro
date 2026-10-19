@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01.OperatorsIntro/01.OperatorsIntro.vcxproj" Id="03307238-3c89-49f2-ae49-34b7b0f8ad7a" />
+  <Project Path="02.ComplexOperators/02.ComplexOperators.vcxproj" Id="36693a2f-9a1a-4c78-b173-20669ada4839" />
+  <Project Path="HomeWork25/HomeWork25.vcxproj" Id="9d7df502-cd39-4b04-b7b2-89bff5a5c012" />
+</Solution>
